@@ -20,7 +20,7 @@
     "file-saver": "^2.0.5",
     "react": "^17.0.2",
     "react-dom": "^16.14.0",
-    "react-particles-js": "^3.4.1",
+    "react-particles-js": "^3.6.0",
     "react-scripts": "3.4.3",
     "shards-react": "^1.0.3"
   },
